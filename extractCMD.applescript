@@ -1,1 +1,1 @@
-tell application "Google Chrome" to quit
+tell application "Terminal" to quit
